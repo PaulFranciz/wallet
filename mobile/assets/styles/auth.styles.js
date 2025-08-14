@@ -12,7 +12,6 @@ export const styles = StyleSheet.create({
   illustration: {
     width: "100%",
     height: 310,
-    resizeMode: "contain",
   },
   title: {
     fontSize: 32,
